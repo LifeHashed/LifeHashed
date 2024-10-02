@@ -2,9 +2,9 @@
 
 - 🌱 I’m currently learning **Blender, Docker**
 
-- 👯 I’m looking to collaborate on **AssemblyProgramming and OpenCV projects**
+- 👯 I’m looking to collaborate on **Redaction Tool**
 
-- 🤝 I’m looking for help with **A Campus Blog for Valentine's Day**
+- 🤝 I’m looking for help with **Creating a landing page**
 
 - 💬 Ask me about **React, Mongo, Tensorflow**
 
